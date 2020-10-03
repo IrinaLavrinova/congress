@@ -9,5 +9,5 @@ Monitor:
 
 | User | Address | Task | Reward | Proof |
 |---------|-------|-------|--------|--------|
-| Test | [Test]() | Test | 1000 EUL | [Test]() | 
+| IrinaLavrinova | cyber1m9x4gg6frezyeqldxdz4dvegxpcytxna9shdep | 2 | 150 EUL | Telegram: @IrinaLavrinova Twitter: @Anna99365142| 
 
